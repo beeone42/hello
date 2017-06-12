@@ -1,0 +1,5 @@
+{
+    "slack-token":"xoxb-123456-QwErTyUiOp",
+    "slack-channel":"hello",
+    "interface":"wlan0"
+}
